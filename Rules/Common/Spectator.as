@@ -1,0 +1,2 @@
+#define CLIENT_ONLY
+
